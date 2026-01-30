@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>>>> I’m currently working on<br>🛠️ Personal projects in Web Development<br>🌐 Building real-world applications<br><br>>>> I’m looking to collaborate on<br>🤝 Open-source projects<br>🚀 Meaningful & beginner-friendly tech ideas<br><br>>>> I’m looking for help with<br>⚛️ Advanced React.js<br>🧩 Backend development<br><br>>>> I’m currently learning<br>⚛️ React.js & Modern Frontend<br>🐍 Python for Data Science<br>🤖 Machine Learning Fundamentals<br><br>>>> Ask me about<br>🐍 Python basics<br>🌐 Web development for beginners<br><br>⚡ Fun fact<br>  I enjoy debugging at 2 AM like a true developer 💻
+👨‍💻 I’m currently working on<br>🛠️ Personal projects in Web Development<br>🌐 Building real-world applications<br><br>>>> I’m looking to collaborate on<br>🤝 Open-source projects<br>🚀 Meaningful & beginner-friendly tech ideas<br><br>>>> I’m looking for help with<br>⚛️ Advanced React.js<br>🧩 Backend development<br><br>>>> I’m currently learning<br>⚛️ React.js & Modern Frontend<br>🐍 Python for Data Science<br>🤖 Machine Learning Fundamentals<br><br>>>> Ask me about<br>🐍 Python basics<br>🌐 Web development for beginners<br><br>⚡ Fun fact<br>  I enjoy debugging at 2 AM like a true developer 💻
 
 
 ## 🌐 Socials:
